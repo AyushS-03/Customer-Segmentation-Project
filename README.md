@@ -27,12 +27,7 @@ This project aims to segment customers using unsupervised machine learning techn
     ```sh
     python src/preprocessing.py
     ```
-3. Follow the notebooks for EDA, clustering, and visualization.
-4. Run the Streamlit dashboard:
+3. Run the Streamlit dashboard:
     ```sh
     streamlit run dashboard/app.py
     ```
-
-## Notes for Copilot
-- Ensure memory-efficient operations for low-end PCs.
-- Optimize code for performance.
