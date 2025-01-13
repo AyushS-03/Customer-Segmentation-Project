@@ -11,3 +11,6 @@ jupyter==1.0.0
 scipy==1.7.0
 statsmodels==0.12.2
 pytest==6.2.4
+streamlit==1.2.0
+tensorflow==2.6.0
+keras==2.6.0
