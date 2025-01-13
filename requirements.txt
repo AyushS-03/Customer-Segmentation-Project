@@ -166,7 +166,7 @@ pyinstaller==6.5.0
 pyinstaller-hooks-contrib==2024.3
 pyparsing==3.1.1
 PyPDF2==3.0.1
-pypiwin32==308
+pywin32==308
 PySocks==1.7.1
 python-daemon==3.0.1
 python-dateutil==2.8.2
