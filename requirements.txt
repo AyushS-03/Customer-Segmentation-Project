@@ -2,3 +2,4 @@ seaborn
 scikit-learn
 keras
 tensorflow
+plotly
